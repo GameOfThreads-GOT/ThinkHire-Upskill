@@ -1,0 +1,5 @@
+1.) Resume analyzer and questions according to it
+2.) Educational Resources
+3.) Responsive Frontend with heatmap , charts , etc
+4.) Increase in domains 
+5.) RAG model inclusion for text based knowledge checking
